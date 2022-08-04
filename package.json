@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "hexo-image-diff@github:imzlp/hexo-image-diff",
+      "C:\\Users\\lipengzha\\Desktop\\ue5wiki_site"
+    ]
+  ],
+  "_from": "hexo-image-diff@github:imzlp/hexo-image-diff",
+  "_id": "hexo-image-diff@git+ssh://git@github.com/imzlp/hexo-image-diff.git#bb774b5c438ac4fd65767d709382218f453298a6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/hexo-image-diff",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "hexo-image-diff@github:imzlp/hexo-image-diff",
+    "name": "hexo-image-diff",
+    "escapedName": "hexo-image-diff",
+    "rawSpec": "github:imzlp/hexo-image-diff",
+    "saveSpec": "github:imzlp/hexo-image-diff",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/imzlp/hexo-image-diff.git#bb774b5c438ac4fd65767d709382218f453298a6",
+  "_spec": "github:imzlp/hexo-image-diff",
+  "_where": "C:\\Users\\lipengzha\\Desktop\\ue5wiki_site",
+  "author": {
+    "name": "imzlp"
+  },
+  "bugs": {
+    "url": "https://github.com/imzlp/hexo-image-diff/issues"
+  },
+  "description": "Embed steam game in Hexo posts/pages.",
+  "homepage": "https://github.com/imzlp/hexo-image-diff#readme",
+  "keywords": [
+    "Hexo",
+    "steam",
+    "embed",
+    "tag",
+    "hexo-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hexo-image-diff",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imzlp/hexo-image-diff.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
